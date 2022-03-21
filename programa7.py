@@ -1,0 +1,2 @@
+x='clever'
+print(x)
